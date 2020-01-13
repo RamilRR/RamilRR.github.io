@@ -8,7 +8,7 @@ tags:
 Создаем пользователя `www`, назначаем пароль.
 Обновляем репозиторий и устанавливаем необходимые дистрибутивы.
 ```sh
-sudo apt-get update 
+sudo apt-get update
 sudo apt-get install -y vim zsh mosh tmux htop git curl wget unzip zip gcc build-essential make
 ```
 Устанавливаем дистрибутивы необходимые [python] `3.8.1`.
